@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palak-satija-525441258)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palaksatija1330@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/palaksatija123)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://palaksatija123.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](file:///C:/Users/Palak/Downloads/index.html)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=palaksatija123&label=Profile+Views&color=7C3AED&style=flat)
 ![Open to Work](https://img.shields.io/badge/Open%20To%20Work-brightgreen?style=flat&logo=checkmarx&logoColor=white)
